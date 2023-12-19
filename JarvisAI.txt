@@ -1,0 +1,17 @@
+========================= Jarvis AI ============================
+
+* Tool:
+     1. PyCharm
+     2. JetBrains Toolkit
+
+* Packages:
+
+    1. pip install speechrecognition
+    2. pip install wikipedia
+    3. pip install openai
+    4. pip install pyaudio
+    5. pip instll flask
+
+* Packages for react:
+    
+    1. npm install axios
